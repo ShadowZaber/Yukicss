@@ -1,3 +1,4 @@
+/*Last Updated: 2021-9-1*/
 
 /*Section I: Frame*/
 
@@ -2131,6 +2132,8 @@ td[style*="#fff"] {
     font-size: 40px;
     font-family: 'Material Icons';
 }
+
+/*fuck tracers and stealers, you know who you are*/
 
 #menuHolder[style*="block"] #hiddenClasses {
     display: flex !important;
